@@ -48,7 +48,7 @@ MIT License
 ## Author & Contact
 
 Kannuki\_san
-[GitHub Repository](https://github.com/Kannuki_san/dynamic-dummy-mem)
+[GitHub Repository](https://github.com/Kannuki-san/dynamic-dummy-mem)
 
 ---
 
@@ -102,4 +102,4 @@ MIT License
 ## 作者・連絡先
 
 Kannuki\_san
-[GitHubリポジトリ](https://github.com/Kannuki_san/dynamic-dummy-mem)
+[GitHubリポジトリ](https://github.com/Kannuki-san/dynamic-dummy-mem)
