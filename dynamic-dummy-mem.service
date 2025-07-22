@@ -1,0 +1,13 @@
+[Unit]
+Description=Dynamic Dummy Memory Guard Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/dynamic-dummy-mem
+Restart=always
+User=root
+# 環境によっては User=dummy-mem など専用ユーザー作成もおすすめ
+
+[Install]
+WantedBy=multi-user.target
