@@ -73,7 +73,7 @@ Oracle Cloud AlwaysFree など、クラウド無料枠サーバーの「アイ�
 ## インストール
 
 ```
-sudo dpkg -i dynamic-dummy-mem_x.y.z.deb
+sudo apt install ./dynamic-dummy-mem_x.y.z_all.deb
 sudo systemctl start dynamic-dummy-mem
 sudo systemctl enable dynamic-dummy-mem
 ```
