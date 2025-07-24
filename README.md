@@ -19,7 +19,7 @@ A simple, powerful service to prevent Oracle Cloud AlwaysFree and similar cloud 
 ## Installation
 
 ```
-sudo dpkg -i dynamic-dummy-mem_x.y.z.deb
+sudo apt install ./dynamic-dummy-mem_x.y.z_all.deb
 sudo systemctl start dynamic-dummy-mem
 sudo systemctl enable dynamic-dummy-mem
 ```
