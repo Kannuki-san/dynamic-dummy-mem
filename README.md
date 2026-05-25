@@ -1,6 +1,6 @@
 # Dynamic Dummy Mem Guard
 
-A simple, powerful service to prevent Oracle Cloud AlwaysFree and similar cloud servers from being reclaimed due to "idle" state.
+A simple service to prevent Oracle Cloud AlwaysFree and similar cloud servers from being reclaimed due to "idle" state.
 
 * Dynamically fills unused RAM with dummy memory.
 * Releases memory instantly when needed by real applications.
@@ -54,7 +54,7 @@ Kannuki\_san
 
 # Dynamic Dummy Mem Guard（日本語）
 
-Oracle Cloud AlwaysFree など、クラウド無料枠サーバーの「アイドル判定によるリソース回収・停止」を防ぐためのシンプルかつ強力なサービスです。
+Oracle Cloud AlwaysFree など、クラウド無料枠サーバーの「アイドル判定によるリソース回収・停止」を防ぐためのシンプルなサービスです。
 
 * 未使用RAMをダミーメモリで自動的に埋める
 * 本当に必要な時は即座に解放
